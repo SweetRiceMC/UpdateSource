@@ -1,0 +1,136 @@
+{
+  "files": {
+    "【优化】betterfpsdist-1.2.jar": {
+      "modId": "betterfpsdist",
+      "hash": "02af47e907b36f802818e62472811ea3b668da9bb23645120ca090707376f529"
+    },
+    "【优化】ForceAccessServer-fabric-1.0.1.jar": {
+      "modId": "fas",
+      "hash": "8de280c2427e97ba0caea8553c537d0d83e73136bf9faae55413c4e3582ae79f"
+    },
+    "【优化】indium-1.0.0+mc1.16.5.jar": {
+      "modId": "indium",
+      "hash": "e55396b61d693ecb7ee741ba6990b632328cf13e7b4831ecfe122bbd603842af"
+    },
+    "【优化】lithium-fabric-mc1.16.5-0.6.6.jar": {
+      "modId": "lithium",
+      "hash": "9067b45509fc3023d76bff85ad030ef01d30e5a9fbfe7815ff666ad31bba4d28"
+    },
+    "【优化】phosphor-fabric-mc1.16.2-0.8.0.jar": {
+      "modId": "phosphor",
+      "hash": "6a985f614c303ce4d67b773844ffcca0ea54feecdb7ee3e5b44e3a09e0609936"
+    },
+    "【优化】sodium-fabric-mc1.16.5-0.2.0+replaymod.build.4.jar": {
+      "modId": "sodium",
+      "hash": "64759e7c3780997457ae0f2a56c9a55ed7d0c35576e0bb5565b8bc1832e9e4b6"
+    },
+    "【前置】cloth-config-4.17.101-fabric.jar": {
+      "modId": "cloth-config2",
+      "hash": "9281a6edd19f76ddd74bb408469dbd942a21576b475d68c105369bc67c8a2622"
+    },
+    "【前置】fabric-api-0.42.0+1.16.jar": {
+      "modId": "fabric",
+      "hash": "3df8dd503f35aa0ac9fab8ad9f9a369fdfd0b1ab544af19a3d626d948fb4586c"
+    },
+    "【前置】malilib-fabric-1.16.5-0.10.0-dev.21+arne.8.jar": {
+      "modId": "malilib",
+      "hash": "5b64ee142ea9c054f7e6e846eb24c9942056ffb6fe2c51b22a56357629bc42c0"
+    },
+    "【前置】modmenu-1.16.23.jar": {
+      "modId": "modmenu",
+      "hash": "5de8ec3cbdd4792f29d7e916ebc8f6da211ec478ed59ac53bdbd44b3ae618cf3"
+    },
+    "【前置】TRansliterationLib-1.0.4.jar": {
+      "modId": "transliterationlib",
+      "hash": "bdcdd58564ce1aa2c11b8baf0bd394d4fba13fbaf096f449a5a7e86fa6906b8d"
+    },
+    "【前置】watermedia-2.0.10.jar": {
+      "modId": "watermedia",
+      "hash": "104ac96409ff47f1c5053a99d6d802c06c9fc95bf2bc0150a52627a6851f2b46"
+    },
+    "【可选】【3D皮肤】3dSkinLayers-Fabric-1.1.0.jar": {
+      "modId": "skinlayers",
+      "hash": "a132418cd4432aa10d0b4b0359c31cca8e6fb8443d96ed0310eef7221f5ce135"
+    },
+    "【可选】【C键放大】WI-Zoom-1.3-MC1.16.5.jar": {
+      "modId": "wi-zoom",
+      "hash": "cfc9e3afe7e9e0e064874b8d251d735cb18cc586d1d4a58cf87e793fa3f0885d"
+    },
+    "【可选】【光影核心】iris-mc1.16.5-1.4.5.jar": {
+      "modId": "iris",
+      "hash": "d9301505a639bf95217a884d71d1f154f1aedcffce2e5ab6cae484edb3d184b3"
+    },
+    "【可选】【切换账号】InGameAccountSwitcher-Fabric-1.16-8.0.1.jar": {
+      "modId": "ias",
+      "hash": "872e9502236f25912ccc257a300d335fefd90034f6329e23ce672cd7b76393fd"
+    },
+    "【可选】【动态光源】lambdynamiclights-fabric-1.3.4+1.16.jar": {
+      "modId": "lambdynlights",
+      "hash": "2ddca3281a2de5d1829f2c7ccfb0e2707f5a5243a0452ed6f3e07c252f37e902"
+    },
+    "【可选】【大地图】XaerosWorldMap_1.33.1_Fabric_1.16.5.jar": {
+      "modId": "xaeroworldmap",
+      "hash": "36eb864563ed03da1cd4ced4d851cc160b2b26b13590e030103fcc51bb2c8daf"
+    },
+    "【可选】【小地图】Xaeros_Minimap_23.6.3_Fabric_1.16.5.jar": {
+      "modId": "xaerominimap",
+      "hash": "e00cf4145170e3b2d0366c7c01be92ab4b7419e83c6049a2512bbe559c4fe900"
+    },
+    "【可选】【建筑投影】litematica-fabric-1.16.5-0.0.0-dev.20210917.192300.jar": {
+      "modId": "litematica",
+      "hash": "fd6881bb5f5b6086493c835828973b3c34a813e562ce8b491121b5fd83bf02fa"
+    },
+    "【可选】【录制回放】replaymod-1.16.4-2.6.12.jar": {
+      "modId": "replaymod",
+      "hash": "8c8ef912734b84cec74ac2d1c1bb661f2766dfc7c3011af7cba2baff5d7e2311"
+    },
+    "【可选】【方块显示】wthit-2.10.15-fabric.jar": {
+      "modId": "wthit",
+      "hash": "ab54496b96a0a52268c5fc005f1cbcc8ff477b78d4e9c0ad437054cc029e2e72"
+    },
+    "【可选】【更多动画】notenoughanimations-1.2.4.jar": {
+      "modId": "notenoughanimations",
+      "hash": "cb28bb8908b2732338f69d624d27a6d27bbbc1fed24cc5233e3c45260c2c44a0"
+    },
+    "【可选】【更好第三人称】BetterThirdPerson-Fabric-1.16.4-1.5.0.jar": {
+      "modId": "betterthirdperson",
+      "hash": "b2c31d434e15b4db1c72542e42907f377696bcdfc3c63dac59a55d513eea31b5"
+    },
+    "【可选】【物品管理器】jei-1.16.5-7.7.1.153.jar": {
+      "modId": "jei",
+      "hash": "0115a156e7d14e2a0c9321941b85a3cd361aaf405062ba860e268708da51d6ee"
+    },
+    "【可选】【皮肤补丁】CustomSkinLoader_Fabric-14.14.jar": {
+      "modId": "customskinloader",
+      "hash": "023f6c5f54a84bda190b39853eed0d74f453220ceb55d697c0ddf88d230dd2f1"
+    },
+    "【可选】【聊天头像】chat_heads-0.6.0-fabric-1.16.5.jar": {
+      "modId": "chat_heads",
+      "hash": "c6d46397481589b932adc8a380494e21232c75d40282c34dac0c29bddc4f362f"
+    },
+    "【可选】【语音聊天】voicechat-fabric-1.16.5-2.4.26.jar": {
+      "modId": "voicechat",
+      "hash": "a2ce66d93f8cc04d9650fa04b212147137c4b813335ef95aea18b89041c7e92b"
+    },
+    "【可选】【输入法屏蔽】imblockerfabric-1.0.19.jar": {
+      "modId": "imblocker",
+      "hash": "28078b106ea517137798534605883c5a2a22f0267228d0d1a718ad55e94e2b51"
+    },
+    "【可选】【连接材质】connected-block-textures-0.1.3+1.16.jar": {
+      "modId": "connected_block_textures",
+      "hash": "2fd5264515c0876991da7df7fc676ad9d61eb4af9dbe1a5ab028ea110e7bb5ae"
+    },
+    "【可选】【迷你HUD】minihud-fabric-1.16.5-0.19.0-dev.20210917.191825.jar": {
+      "modId": "minihud",
+      "hash": "14bf6af634971737fcc5c1389a6143f356ed012ce1ebd704df8c8d1b03c09850"
+    },
+    "【可选】【鼠标手势】MouseTweaks-fabric-mc1.16.5-2.22.jar": {
+      "modId": "mousetweaks",
+      "hash": "813df7e14267f4424df47fda2c4c58bb5838de1949617f41f609a0225265740e"
+    },
+    "【核心】SRClient-1.2.1-beta.jar": {
+      "modId": "fancyui",
+      "hash": "71cb6d491d69d8f3bbc86557696485450c51a4fb0a4fd557a8c534e80538eaf6"
+    }
+  }
+}
