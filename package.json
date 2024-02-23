@@ -20,9 +20,9 @@
       "modId": "badpackets",
       "hash": "4a6b84ce20d7a35d17ef86fe29417de6f25704f478ee2f5f92c7c2ee76ea899e"
     },
-    "【前置】cloth-config-10.1.105-fabric.jar": {
+    "【前置】cloth-config-10.1.117-fabric.jar": {
       "modId": "cloth-config",
-      "hash": "68a89f3764630b851f572a9f795e5ed1bd24177bea2e3734af230f6daf69ee1c"
+      "hash": "34bbb5a442b0bce38058929afa22f683a279a19357814ebe9354d43a110d42c5"
     },
     "【前置】fabric-api-0.87.2+1.19.4.jar": {
       "modId": "fabric-api",
@@ -68,45 +68,49 @@
       "modId": "iris",
       "hash": "7e54ca93ddf4ee15015d7709d12d928813ccb91c01a81416338c06703372f3c8"
     },
-    "【可选】【动态光源】lambdynamiclights-2.3.0+1.19.4.jar": {
+    "【可选】【光影核心】iris-mc1.19.4-1.6.11.jar": {
+      "modId": "iris",
+      "hash": "e9b68b80f850189ebdbe7a849dd21a47f392733c8807249690a6879b49fed00b"
+    },
+    "【可选】【动态光源】lambdynamiclights-2.3.1+1.19.4.jar": {
       "modId": "lambdynlights",
-      "hash": "16cbabe35edc623c5b515dcdd31740226825f2e560e4fd3215d7f78af83f664f"
+      "hash": "9ccdc90aec0a8ff9ae5bfcd77976f6818bb3fcceca2638729db4f9bcf5b3edd9"
     },
-    "【可选】【小地图】Xaeros_Minimap_23.8.4_Fabric_1.19.4.jar.disabled": {
+    "【可选】【小地图】Xaeros_Minimap_23.9.3_Fabric_1.19.4.jar.disabled": {
       "modId": "xaerominimap",
-      "hash": "797793dec500f25faae847a79df5de20af45f6adb2dae25d7ec6144c644930f9"
+      "hash": "ae3a3f104b9c131119fa11f999f410eba6bef6efc46dee175c1c367b3f9daaf2"
     },
-    "【可选】【小地图】【全屏地图】XaerosWorldMap_1.36.0_Fabric_1.19.4.jar.disabled": {
+    "【可选】【小地图】【全屏地图】XaerosWorldMap_1.37.8_Fabric_1.19.4.jar.disabled": {
       "modId": "xaeroworldmap",
-      "hash": "972a1a14273cdf6ec70e5a3778d6d8a7fe3f90565c795196a131f95006015dc5"
+      "hash": "3d663c6c93473b4cf54c2db60fe2982172645ff8f64c6703fdef24d018768518"
     },
     "【可选】【建筑投影】litematica-fabric-1.19.4-0.14.3.jar": {
       "modId": "litematica",
       "hash": "e45dd46af85fa26830ce60aba6559b92e0a497254713297268c66ab50963501a"
     },
-    "【可选】【更多动画】notenoughanimations-fabric-1.6.4-mc1.19.4.jar": {
+    "【可选】【更多动画】notenoughanimations-fabric-1.7.1-mc1.19.4.jar": {
       "modId": "notenoughanimations",
-      "hash": "17302e809fc4a973073ddd142f63bc32f91fb524116be68be06796cd514c18d0"
+      "hash": "23fb637541a37febac8789145217b790cb813a80a1286cd98dafc096f8417359"
     },
     "【可选】【更好第三人称】BetterThirdPerson-Fabric-1.19-1.9.0.jar": {
       "modId": "betterthirdperson",
       "hash": "91f7cbd89b73be0a5ae448b350b58ee26212af7d517410e19ce59118737dbccf"
     },
-    "【可选】【游戏回放】replaymod-1.19.4-2.6.13.jar": {
+    "【可选】【游戏回放】replaymod-1.19.4-2.6.14.jar": {
       "modId": "replaymod",
-      "hash": "ae18bd4673c51f703ddc47090d5c42ebdf1de8f96e5a7e5ae861333407a0896f"
+      "hash": "6811740a54b1cdc646a89570cf40f177f156f050a3f6b60235fb750d38a59b87"
     },
     "【可选】【滚筒飞行】do-a-barrel-roll-3.3.7+1.19.4-fabric.jar": {
       "modId": "do_a_barrel_roll",
       "hash": "fb6cc2990601793ae47644e248859652fe3231a1c60dd883df0fb508b3cb4633"
     },
-    "【可选】【聊天头像】chat_heads-0.10.23-fabric-1.19.4.jar": {
+    "【可选】【聊天头像】chat_heads-0.10.31-fabric-1.19.4.jar": {
       "modId": "chat_heads",
-      "hash": "8347ab3b919b82e144975c19aff83588ab9346f8458fbe4ff718e9e8213e08c1"
+      "hash": "fc8ee40ed8cf5b647a5103ffa175b65932dc74c0b1fda86c837640bc24cfbc48"
     },
-    "【可选】【语音聊天】voicechat-fabric-1.19.4-2.4.28.jar": {
+    "【可选】【语音聊天】voicechat-fabric-1.19.4-2.4.32.jar": {
       "modId": "voicechat",
-      "hash": "c992909ac391867d298123f46792b9d92ba9a399e28ded93c24e60950133ed97"
+      "hash": "c95192d09664dd7c568bd869d078697e7e80a8668fe90f2707a466baed6f2c02"
     },
     "【可选】【语音聊天】【回放附属】replayvoicechat-1.19.4-1.3.3.jar": {
       "modId": "replayvoicechat",
@@ -126,7 +130,7 @@
     },
     "【核心】SRClient-1.3.0.jar": {
       "modId": "fancyui",
-      "hash": "ad388fe6e91f96f7e83a3922b9db31eee18259ba8687cf2028172c6483d42539"
+      "hash": "8359bae70ea6a740a7165247877a94a94222875954396c427ad5e699134f97f1"
     }
   }
 }
