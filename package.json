@@ -112,10 +112,6 @@
       "modId": "voicechat",
       "hash": "c95192d09664dd7c568bd869d078697e7e80a8668fe90f2707a466baed6f2c02"
     },
-    "【可选】【语音聊天】【回放附属】replayvoicechat-1.19.4-1.3.3.jar": {
-      "modId": "replayvoicechat",
-      "hash": "f2a3ca59cef640c8f053b37b47c3d5cbd19c2e899c9af6713d4a47af3186b675"
-    },
     "【可选】【输入法屏蔽】imblockerfabric-1.0.24.jar": {
       "modId": "imblocker",
       "hash": "85cf0411825e334d455136431132bb5a06947636f9c5af930737ce419e4c64a8"
